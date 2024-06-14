@@ -37,8 +37,8 @@ MSBuild version 17.10.4+10fbfbf2e for .NET Framework
   lbitlib.c
   lcode.c
   lcorolib.c
-  ldblib.c
   lctype.c
+  ldblib.c
   ldebug.c
   ldo.c
   ldump.c
