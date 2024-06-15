@@ -917,8 +917,8 @@ MSBuild version 17.10.4+10fbfbf2e for .NET Framework
   spivotL.c
   spivotgrowth.c
   spruneL.c
-  sreadrb.c
   sreadhb.c
+  sreadrb.c
   sreadtriple.c
   ssnode_bmod.c
   ssnode_dfs.c
