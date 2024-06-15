@@ -877,8 +877,8 @@ MSBuild version 17.10.4+10fbfbf2e for .NET Framework
   ilu_zcopy_to_ucol.c
   ilu_zdrop_row.c
   ilu_zpanel_dfs.c
-  ilu_zpivotL.c
   ilu_zsnode_dfs.c
+  ilu_zpivotL.c
   input_error.c
   izmax1.c
   mark_relax.c
