@@ -84,8 +84,8 @@ MSBuild version 17.10.4+10fbfbf2e for .NET Framework
   attributes.cpp
   b_stream.cpp
   boolean_expression.cpp
-  command_line.cpp
   command_line_args.cpp
+  command_line.cpp
   common.cpp
   counted.cpp
   debug_stream.cpp
@@ -305,6 +305,9 @@ MSBuild version 17.10.4+10fbfbf2e for .NET Framework
   lua_imgui.cpp
   lua_simple_application.cpp
   geogram_gfx.vcxproj -> D:\a\geogram\geogram\build\Windows\lib\Release\geogram_gfx.lib
+  Building Custom Rule D:/a/geogram/geogram/src/bin/geoCSG/CMakeLists.txt
+  main.cpp
+  geoCSG.vcxproj -> D:\a\geogram\geogram\build\Windows\bin\Release\geoCSG.exe
   Building Custom Rule D:/a/geogram/geogram/src/bin/geobox/CMakeLists.txt
   main.cpp
   geobox.vcxproj -> D:\a\geogram\geogram\build\Windows\bin\Release\geobox.exe
